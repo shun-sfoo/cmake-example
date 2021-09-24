@@ -2,6 +2,10 @@
 
 learn cmake
 
+1. Declare a target
+2. Declare target's traits
+3. It's all about targets
+
 # generat compile command json file
 
 `cmake -DCMAKE_EXPORT_COMPILE_COMMANDS=ON .`
